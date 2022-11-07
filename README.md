@@ -1,2 +1,1 @@
-# sample-projects
-sample easy projects
+# sample-project
